@@ -1,0 +1,36 @@
+.glavnaya {
+	background-color: #808080;
+	display: table;
+	 border: 10px solid transparent;
+}
+.glavnaya img,
+.glavnaya a {
+	display: table-cell;
+	vertical-align: middle;
+}
+/* 2*/
+.glavnaya1 img,
+.glavnaya1 a {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.glavnaya1 {
+	background-color: #808080;
+	display: table;
+}
+/* 2  */
+
+.glavnaya2 {
+	background-color: #808080;
+	display: table;
+	border: 10px solid transparent;
+}
+.glavnaya2 img,
+.glavnaya2 a {
+	display: table-cell;
+	vertical-align: middle;
+}
+* {
+	background-image: url(https://i.ytimg.com/vi/cJcdkM-nswk/maxresdefault.jpg);
+}
